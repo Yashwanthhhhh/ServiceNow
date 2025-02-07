@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Default access control on x_1619132_github_st_trainer</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1619132_github_st_trainer</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 05:50:06</sys_created_on>
+        <sys_id>2a65c4c6c3a712107c8d533ed40131ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1619132_github_st_trainer</sys_name>
+        <sys_package display_value="Github" source="x_1619132_github">83804802c3a712107c8d533ed40131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github">83804802c3a712107c8d533ed40131aa</sys_scope>
+        <sys_update_name>sys_security_acl_2a65c4c6c3a712107c8d533ed40131ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 05:50:06</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
