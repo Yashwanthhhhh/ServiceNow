@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="trainer">6e65c4c6c3a712107c8d533ed40131c1</application>
+        <filter/>
+        <name>trainers</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1619132_github.trainer_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 05:50:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e665c4c6c3a712107c8d533ed40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>trainers</sys_name>
+        <sys_package display_value="Github" source="x_1619132_github">83804802c3a712107c8d533ed40131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github">83804802c3a712107c8d533ed40131aa</sys_scope>
+        <sys_update_name>sys_ui_module_e665c4c6c3a712107c8d533ed40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 05:50:06</sys_updated_on>
+        <table>x_1619132_github_st_trainer</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

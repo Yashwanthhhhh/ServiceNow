@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 05:50:06</sys_created_on>
+        <sys_id>ee65c4c6c3a712107c8d533ed40131ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1619132_github_st_trainer.x_1619132_github.trainer_user</sys_name>
+        <sys_package display_value="Github" source="x_1619132_github">83804802c3a712107c8d533ed40131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github">83804802c3a712107c8d533ed40131aa</sys_scope>
+        <sys_security_acl display_value="x_1619132_github_st_trainer">e665c4c6c3a712107c8d533ed40131e7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ee65c4c6c3a712107c8d533ed40131ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 05:50:06</sys_updated_on>
+        <sys_user_role display_value="x_1619132_github.trainer_user" name="x_1619132_github.trainer_user">d2658806c3a712107c8d533ed4013102</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
